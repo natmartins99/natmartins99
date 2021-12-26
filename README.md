@@ -30,6 +30,6 @@
  <a href="https://t.me/Natmdiass" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatonat.mds6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  
+  ![Snake animation](https://github.com/natmartins99/natmartins99/blob/output/github-contribution-grid-snake.svg)
    
  </div>
