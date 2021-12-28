@@ -2,7 +2,7 @@
 
 - Hoje trabalho em projetos próprios e maneiras sobre como melhorar minha comunicação
 - Gosto da área de frontend, com isso busco maior desenvolvimento na mesma
-- Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/natmartins99">
