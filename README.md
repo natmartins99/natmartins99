@@ -1,6 +1,5 @@
 ### Olaaa! Eu sou a Natalia, estudante de engenharia da computação! 
 
-- Ela/Dela
 - Hoje trabalho em projetos próprios e maneiras sobre como melhorar minha comunicação
 - Gosto da área de frontend, com isso busco maior desenvolvimento na mesma
 
